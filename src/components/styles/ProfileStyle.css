@@ -262,7 +262,8 @@ object-fit: cover;
 }
 
 .social-link.facebook{
-background-image: url('');
+    
+background-image: url('/src/images/facebook.png');
 /* background-size: 50px 50px;    */
 }
 

@@ -2,7 +2,7 @@ import React from 'react';
 import confiLogo from '../images/logo-agile.png';
 import confLogo from '../images/academia-geek.jpg';
 import Header from './HeaderComponent';
-import './styles/ProfileStyle.css';
+
 import Profession from './ProfessionComponent';
 import Portafolio from './PortafolioComponent';
 import Contac from './ContacComponent'

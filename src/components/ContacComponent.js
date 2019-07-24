@@ -1,6 +1,6 @@
 import React from 'react';
-import './styles/ProfileStyle.css';
 
+import iconf from '../images/facebook.png'
 
 
 
@@ -16,7 +16,6 @@ class Contact extends React.Component{
                     <button>Enviar</button>
                 </form>
                 <div class="social">
-                    <a href="#" class="social-link twitter"> </a>
                     <a href="#" class="social-link facebook"></a>
                     <a href="#" class="social-link instagram"></a>
                     <a href="#" class="social-link github"></a>

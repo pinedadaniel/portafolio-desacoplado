@@ -1,5 +1,5 @@
 import React from 'react';
-import './styles/ProfileStyle.css';
+
 import confLogo from '../images/academia-geek.jpg';
 
 
